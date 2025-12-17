@@ -30,5 +30,8 @@ An interactive trivia quiz that tests the user's knowledge of current video game
 2. Open 'index.html' in your browser (or via live server if you use VSCode)
 3. Start playing!
 
+## Live Demo
+https://matteozefi.github.io/trivia-quiz-game/
+
 
 
