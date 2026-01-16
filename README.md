@@ -6,6 +6,9 @@ An interactive trivia quiz that tests the user's knowledge of current video game
 <img width="2540" height="1305" alt="image" src="https://github.com/user-attachments/assets/c738921f-ed35-4d79-ada7-6691f1a72de2" />
 <img width="2542" height="1304" alt="image" src="https://github.com/user-attachments/assets/cb869966-772a-4ff9-b836-d71753c99a97" />
 
+## Preface
+This web app was built primarily for desktop viewing as while it can be viewed and access on other devices be prepared for some degree of visual variance between varying viewports
+
 ## Features
 - Username validation within an entry modal message
 - 5 multiple choice question pertaining to video games
