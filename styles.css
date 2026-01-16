@@ -330,7 +330,7 @@ main {
 
 /* Copyright */
 #copyright {
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     color: black;
     width: 100%;
     text-align: center;
@@ -513,5 +513,6 @@ main {
         font-size: 1.05rem;
     }
 }
+
 
 
